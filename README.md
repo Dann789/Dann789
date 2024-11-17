@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="19179252" data-share-method="host" data-aspect-ratio="1.83908" data-width="100%"><a href="https://tenor.com/view/anime-gif-19179252">Anime GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![tenor](https://github.com/user-attachments/assets/f63874f2-7476-4f56-8803-fd3b9f3ab643)
 
 # 💫 About Me:
 Hi, my name is Wildan.<br>👨‍🎓Students of Information Technology Department (Business Information System)<br>👨‍💻Currently learning about Web and Mobile Development<br>🎮Interested in Front End Developer and also Game Developer
