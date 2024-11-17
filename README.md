@@ -1,4 +1,4 @@
-https://tenor.com/view/anime-gif-19179252
+<div class="tenor-gif-embed" data-postid="19179252" data-share-method="host" data-aspect-ratio="1.83908" data-width="100%"><a href="https://tenor.com/view/anime-gif-19179252">Anime GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 # 💫 About Me:
 Hi, my name is Wildan.<br>👨‍🎓Students of Information Technology Department (Business Information System)<br>👨‍💻Currently learning about Web and Mobile Development<br>🎮Interested in Front End Developer and also Game Developer
@@ -12,5 +12,3 @@ Hi, my name is Wildan.<br>👨‍🎓Students of Information Technology Departme
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dann789&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
