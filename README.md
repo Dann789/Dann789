@@ -1,4 +1,4 @@
-![tenor]([https://github.com/user-attachments/assets/f63874f2-7476-4f56-8803-fd3b9f3ab643](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2J6bml6ZjgwcmVuY3FlaGZrYWRmczcxejdrbzl3cDBnbTNucjJ4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif))
+![giphy](https://github.com/user-attachments/assets/13cf3e6e-2d61-4c8a-afc1-212320d577fe)
 
 # 💫 About Me:
 Hi, my name is Wildan.<br>👨‍🎓Student of Information Technology Department (Business Information System)<br>👨‍💻Currently learning about Web and Mobile Development<br>🎮Interested in Front End Developer and also Game Developer
