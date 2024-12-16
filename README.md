@@ -1,4 +1,4 @@
-![giphy](https://github.com/user-attachments/assets/13cf3e6e-2d61-4c8a-afc1-212320d577fe)
+![coding](https://github.com/user-attachments/assets/34d0c63d-106a-43e2-921b-435ab4477359)
 
 # 💫 About Me:
 Hi, my name is Wildan.<br>👨‍🎓Student of Information Technology Department (Business Information System)<br>👨‍💻Currently learning about Web and Mobile Development<br>🎮Interested in Front End Developer and also Game Developer
