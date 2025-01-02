@@ -2,8 +2,8 @@
 
 # 💫 About Me:
 <h3>Hi 👋! My name is Wildan</h3>
-👨‍🎓Student of Information Technology Department (Business Information System)<br>👨‍💻Currently learning about Web and Mobile Development<br>🎮Interested in Front End Developer and also Game Developer<br><br>
-<img src="https://github.com/user-attachments/assets/34d0c63d-106a-43e2-921b-435ab4477359" />
+👨‍🎓Student of Information Technology Department (Business Information System)<br>👨‍💻Currently learning about Web and Mobile Development<br>🎮Interested in Front End Developer and also Game Developer
+
 
 # 💻 Tech Stack:
 <div align="left">
@@ -26,6 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
+  <img src="https://github.com/user-attachments/assets/34d0c63d-106a-43e2-921b-435ab4477359" />
 </div>
 
 # 📊 GitHub Stats:
