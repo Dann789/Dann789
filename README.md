@@ -1,9 +1,9 @@
-![coding](https://github.com/user-attachments/assets/34d0c63d-106a-43e2-921b-435ab4477359)
 <img src="https://raw.githubusercontent.com/Dann789/Dann789/output/snake.svg" alt="Snake animation" />
 
 # 💫 About Me:
 <h3>Hi 👋! My name is Wildan</h3>
-👨‍🎓Student of Information Technology Department (Business Information System)<br>👨‍💻Currently learning about Web and Mobile Development<br>🎮Interested in Front End Developer and also Game Developer
+👨‍🎓Student of Information Technology Department (Business Information System)<br>👨‍💻Currently learning about Web and Mobile Development<br>🎮Interested in Front End Developer and also Game Developer<br>
+<img src="https://github.com/user-attachments/assets/34d0c63d-106a-43e2-921b-435ab4477359" />
 
 # 💻 Tech Stack:
 <div align="left">
