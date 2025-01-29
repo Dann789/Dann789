@@ -4,7 +4,6 @@
 <h3>Hi 👋! My name is Wildan</h3>
 👨‍🎓Student of Information Technology Department (Business Information System)<br>👨‍💻Currently learning about Web and Mobile Development<br>🎮Interested in Front End Developer and also Game Developer
 
-
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -38,3 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Dann789&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dann789&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+# 🤝 Connect With Me:
+<a href="https://linkedin.com/in/muhammad-wildan-ramadhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-wildan-ramadhana" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/wildan_rama2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="wildan_rama2004" height="30" width="40" /></a>
