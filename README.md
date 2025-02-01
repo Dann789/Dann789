@@ -39,5 +39,5 @@
 </div>
 
 # 🤝 Connect With Me:
-<a href="https://linkedin.com/in/muhammad-wildan-ramadhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-wildan-ramadhana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad-wildan-ramadhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-wildan-ramadhana" height="17" width="40" /></a>
 <a href="https://www.hackerrank.com/wildan_rama2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="wildan_rama2004" height="30" width="40" /></a>
