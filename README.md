@@ -42,15 +42,15 @@
 <div align="left">
   <img
     src="https://github-statspro.vercel.app/api/stats/dann789?theme=github_dark"
-    alt="Stats Card" height="280"
+    alt="Stats Card" height="250"
   />
   <img
     src="https://github-statspro.vercel.app/api/languages/dann789?theme=github_dark&layout=default"
-    alt="Languages Card"
+    alt="Languages Card" height="250"
   />
   <img
     src="https://github-statspro.vercel.app/api/streak/dann789?theme=github_dark"
-    alt="Streak Card"
+    alt="Streak Card" 
   />
 </div>
 
