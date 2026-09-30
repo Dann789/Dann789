@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 <h3>Hi 👋! My name is Wildan</h3>
-👨‍🎓Student of Information Technology Department (Business Information System)<br>👨‍💻Currently learning about Web and Mobile Development<br>🎮Interested in Full Stack Developer and Game Developer
+👨‍🎓Fresh Graduate of Information Technology Department (Business Information System)<br>👨‍💻Currently learning about Golang and Flutter<br>🎮Interested in AI, Machine Learning, Game, and software development
 
 # 💻 Tech Stack:
 <div align="left">
@@ -23,6 +23,8 @@
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=golang" height="60" alt="golang logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
   <img width="12" />
